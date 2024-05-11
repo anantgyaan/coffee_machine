@@ -1,4 +1,4 @@
-COffee Machine Programming:
+Coffee Machine Programming:
 
 This program:
   a) Print Reports - Current ingredient level and money in the wallet
